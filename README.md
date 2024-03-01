@@ -31,6 +31,10 @@ jQuery Documentation
 Day.js: A minimalist JavaScript library for parsing, validating, manipulating, and displaying dates.
 Day.js Documentation
 
+#Deployed Application
+Here is the functional deployed application Url
+https://chinazao1.github.io/Task-Manager-app-final/
+
 #Contributions
 
 Contributions to the Task Board App are welcome! Feel free to submit bug reports, feature requests, or even pull requests to enhance the functionality.
